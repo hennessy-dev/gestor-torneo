@@ -1,0 +1,17 @@
+El Centro De Reparación Automotriz Desea Crear Un Programa Que Permita llevar El Control y Administracion. De Las Ordenes De Reparación. Los Requerimientos Del Propietario Son los Siguientes:
+
+1) Registrar Clientes: La Información Que El Taller Maneja De Sus Clientes Es la Siguiente: cc, nombre, apellido, nro. movil, email, fecha De Registro.
+
+2) Registro Vehiculos: Los Clientes Pueden Tener Muchos Vehiculos Los Datos De los Vehiculos Es la Siguiente: Placa, Modelo, Marca, Color, Km
+
+3) Empleados El Programa Debe Permitir todos Empleados La informacion De cada Empleado Es la Siguiente: CC, nombre, pro Mavil, Especialidad E
+Empleado Cuenta Con Una Especialidad.
+
+4) Orden de servicio: El sistema debe permitir generar una orden de servicio teniendo en cuenta la siguiente informacion. 
+
+(Pueden existir muchos diagnosticos por parte de los expertos, Cada orden debe tener asociada una o varias ordenes de aprobacion de reparacion, el formato de aprobacion es el siguiente: )
+
+5) Facturacion y cierre del servicio: al momento de entregar el vehiculo a el cliente solo se le cobrara los repuestos autorizados. La mano de obra a pagar por el cliente equivale a el 10% del valor del repuesto el formato de factura es el siguiente:
+
+ 
+
